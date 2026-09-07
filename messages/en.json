@@ -2,6 +2,7 @@
   "common": {
     "quote": "Quote",
     "quote_whatsapp": "Quote via WhatsApp",
+    "whatsapp_float": "Message us on WhatsApp",
     "quote_project": "Quote project",
     "see_more": "See more",
     "see_all_projects": "See all projects",

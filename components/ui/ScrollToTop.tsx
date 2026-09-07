@@ -25,7 +25,7 @@ export function ScrollToTop() {
           transition={{ duration: 0.2 }}
           onClick={scrollToTop}
           aria-label="Volver arriba"
-          className="fixed bottom-6 right-6 z-50 w-11 h-11 bg-gold-500 hover:bg-gold-400 text-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center cursor-pointer"
+          className="fixed bottom-28 right-6 z-50 w-11 h-11 bg-gold-500 sm:bottom-24 hover:bg-gold-400 text-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center cursor-pointer"
         >
           <ArrowUp className="h-5 w-5" />
         </motion.button>
